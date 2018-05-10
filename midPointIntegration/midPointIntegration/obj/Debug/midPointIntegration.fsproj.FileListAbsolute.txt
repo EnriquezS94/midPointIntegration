@@ -1,0 +1,18 @@
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.XML
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.exe
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\FSharp.Core.dll
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\System.ValueTuple.dll
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\bin\Debug\FSharp.Core.xml
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\obj\Debug\midPointIntegration.exe
+c:\users\usuario\documents\visual studio 2017\Projects\midPointIntegration\midPointIntegration\obj\Debug\midPointIntegration.pdb
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.exe.config
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.XML
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.exe
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\midPointIntegration.pdb
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\FSharp.Core.dll
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\System.ValueTuple.dll
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\bin\Debug\FSharp.Core.xml
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\obj\Debug\midPointIntegration.exe
+C:\Users\USUARIO\Desktop\Universidad\Septimo Semestre\Metodos Numericos\Proyecto Final\midPointIntegration\midPointIntegration\obj\Debug\midPointIntegration.pdb
